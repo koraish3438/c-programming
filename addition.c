@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 int main() {
-    int a = 10;
-    int b = 20;
-    int sum;
+    int A, B, C;
+    scanf("%d %d", &A, &B);
 
-    sum = a + b;
+    C = A + B;
 
-    printf("Sum = %d", sum);
+    printf("%d", C);
 
     return 0;
 }
