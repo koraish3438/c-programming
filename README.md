@@ -96,3 +96,57 @@ Print the result rounded to **2 decimal places**.
 ```text
 99.50
 ```
+## 3. Leap Year
+
+### Problem Statement
+
+Given a year, determine whether it is a **Leap Year** or not.
+
+A year is a leap year if:
+
+* It is divisible by **400**, or
+* It is divisible by **4** but not divisible by **100**.
+
+Print `Leap Year` if the given year is a leap year; otherwise, print `Not a Leap Year`.
+
+### Test Case 1
+
+**Input**
+
+```text
+2024
+```
+
+**Output**
+
+```text
+Leap Year
+```
+
+### Test Case 2
+
+**Input**
+
+```text
+1900
+```
+
+**Output**
+
+```text
+Not a Leap Year
+```
+
+### Test Case 3
+
+**Input**
+
+```text
+2000
+```
+
+**Output**
+
+```text
+Leap Year
+```
