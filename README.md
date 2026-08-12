@@ -150,3 +150,37 @@ Not a Leap Year
 ```text
 Leap Year
 ```
+4. Even or Odd
+Problem Statement
+
+Given an integer N, determine whether the number is Even or Odd.
+
+If the number is divisible by 2, print Even; otherwise, print Odd.
+
+Test Case 1
+
+Input
+
+10
+
+Output
+
+Even
+Test Case 2
+
+Input
+
+7
+
+Output
+
+Odd
+Test Case 3
+
+Input
+
+0
+
+Output
+
+Even
