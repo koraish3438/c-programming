@@ -184,3 +184,25 @@ Input
 Output
 
 Even
+
+5. Positive, Negative or Zero
+Problem Statement
+Given an integer N, determine whether the number is Positive, Negative, or Zero.
+If N is greater than 0, print Positive.
+If N is less than 0, print Negative.
+If N is equal to 0, print Zero.
+Test Case 1
+Input
+15
+Output
+Positive
+Test Case 2
+Input
+-8
+Output
+Negative
+Test Case 3
+Input
+0
+Output
+Zero
