@@ -184,8 +184,8 @@ Input
 Output
 
 Even
-
-5. Positive, Negative or Zero
+---
+### 5. Positive, Negative or Zero
 Problem Statement
 Given an integer N, determine whether the number is Positive, Negative, or Zero.
 If N is greater than 0, print Positive.
@@ -206,3 +206,25 @@ Input
 0
 Output
 Zero
+---
+### 6. Find the Larger Number
+Problem Statement
+Given two integers A and B, determine which number is larger.
+If A is greater than B, print A.
+If B is greater than A, print B.
+If both numbers are equal, print Equal.
+Test Case 1
+Input
+10 20
+Output
+20
+Test Case 2
+Input
+50 30
+Output
+50
+Test Case 3
+Input
+15 15
+Output
+Equal
