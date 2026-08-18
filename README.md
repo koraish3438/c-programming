@@ -229,6 +229,8 @@ Input
 Output
 Equal
 
+---
+
 7. Check Divisibility
 Problem Statement
 Given two integers A and B, determine whether A is divisible by B.
