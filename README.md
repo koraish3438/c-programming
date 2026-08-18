@@ -228,3 +228,23 @@ Input
 15 15
 Output
 Equal
+
+7. Check Divisibility
+Problem Statement
+Given two integers A and B, determine whether A is divisible by B.
+If A is completely divisible by B, print Divisible. Otherwise, print Not Divisible.
+Test Case 1
+Input
+20 5
+Output
+Divisible
+Test Case 2
+Input
+17 4
+Output
+Not Divisible
+Test Case 3
+Input
+100 10
+Output
+Divisible
