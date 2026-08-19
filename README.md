@@ -231,7 +231,7 @@ Equal
 
 ---
 
-7. Check Divisibility
+###7. Check Divisibility
 Problem Statement
 Given two integers A and B, determine whether A is divisible by B.
 If A is completely divisible by B, print Divisible. Otherwise, print Not Divisible.
