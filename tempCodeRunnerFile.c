@@ -1,18 +1,12 @@
 #include <stdio.h>
 
 int main() {
-    int n;
-    scanf("%d", &n);
+    int A, B, C;
+    scanf("%d %d", &A, &B);
 
-    if (n == 0) {
-        printf("Zero");
-    }
-    else if (n > 0) {
-        printf("Positive");
-    }
-    else {
-        printf("Negative");
-    }
+    C = A + B;
+
+    printf("%d", C);
 
     return 0;
 }
