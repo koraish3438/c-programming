@@ -250,3 +250,35 @@ Input
 100 10
 Output
 Divisible
+
+### 8 Problem: Number Analysis
+
+Write a C program that takes a positive integer N as input and analyzes all numbers from 1 to N.
+
+Requirements
+
+For every number from 1 to N:
+
+Check whether the number is Even or Odd.
+Check whether the number is Prime.
+Calculate the sum of all Even numbers.
+Calculate the sum of all Odd numbers.
+Count the total number of Prime numbers.
+Find the largest Prime number.
+Input
+20
+Output
+Even Sum: 110
+Odd Sum: 100
+Prime Count: 8
+Largest Prime: 19
+Restrictions
+
+Use only:
+
+for or while loop
+if-else
+% operator
+Variables
+
+Do not use arrays, functions, or recursion.
