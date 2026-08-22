@@ -282,3 +282,15 @@ if-else
 Variables
 
 Do not use arrays, functions, or recursion.
+
+### 9 Problem: Count Even and Odd Numbers
+
+Write a C program that takes N numbers as input and counts how many of them are Even and how many are Odd.
+
+Input
+5
+10 7 4 9 12
+Output
+Even: 3
+Odd: 2
+Solve this
